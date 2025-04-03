@@ -1,0 +1,5 @@
+Olá mundo
+aprendendo a iniciar um comit
+
+alterando o artquivo
+
