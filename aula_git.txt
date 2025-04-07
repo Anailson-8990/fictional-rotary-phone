@@ -1,5 +1,8 @@
 Olá mundo
-aprendendo a iniciar um comit
+aprendendo a iniciar um commit
 
-alterando o artquivo
+alterando o arquivo
 
+git 
+ 
+altereeee
